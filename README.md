@@ -1,15 +1,28 @@
 # junior-audit-handbook
-Junior Audit Handbook
+# Junior Audit Handbook
 
-About
+## About
 
-This repository is created for learning external auditing.
+Welcome to my Audit Learning Portfolio.
 
-Topics
-- Cash
-- Accounts Receivable
-- Inventory
-- Revenue
+This repository documents my learning journey in external auditing, financial reporting, and audit procedures. It is created for educational and portfolio purposes only.
 
-Purpose
-This project documents my learning journey as an Accounting graduate preparing for an External Audit career.
+## Contents
+
+- Audit Fundamentals
+- Financial Statement Accounts
+- Audit Assertions
+- Audit Procedures
+- Working Papers
+- Excel for Auditors
+- TFRS Notes
+
+## Disclaimer
+
+All examples in this repository are fictional and do not contain any confidential client information.
+
+## Author
+
+Kuljira P.
+
+Accounting Graduate | Aspiring External Auditor
