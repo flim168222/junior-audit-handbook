@@ -3,6 +3,7 @@
 ## 1. Definition
 
 Cash represents the company's most liquid assets, including cash on hand and cash held in bank accounts.
+_____
 เงินสด และรายการเทียบเท่าเงินสด , เงินฝากธนาคาร
 
 ---
